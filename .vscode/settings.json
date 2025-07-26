@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.pasteAs.preferences": [
+        "text.updateImports.jsts"
+    ],
+    "javascript.updateImportsOnPaste.enabled": true,
+    "typescript.updateImportsOnPaste.enabled": true
+}
