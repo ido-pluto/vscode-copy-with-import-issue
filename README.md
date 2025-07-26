@@ -6,8 +6,7 @@
 
 ## Demo
 
-![demo](./video.mp4)
-
+https://github.com/user-attachments/assets/8a2df326-a40f-41fb-93dc-cecedea283f7
 
 ## reproduce
 
